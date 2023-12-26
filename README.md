@@ -6,9 +6,9 @@ This project involves a comprehensive analysis of power outages in Mali. I have 
 
 The core of this project lies in applying AI techniques to extract and analyze pertinent information from these texts. I focused on key metrics such as:
 
-The number of power outages.
-The duration of each outage.
-The cumulative duration of all outages.
+The number of power outages.<br>
+The duration of each outage.<br>
+The cumulative duration of all outages.<br>
 
 This data was meticulously processed and organized into a JSON format, which was then integrated into a spreadsheet for further analysis and visualization.
 
